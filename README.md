@@ -3,8 +3,6 @@
 ### About Me
 
 - I'm Fullstack Python Developer (Django, Vue.js)
-- I am currently going to become Frontend Vue.js Developer
-- In the future I plan to become Fullstack Node.js Developer
 
 ![sk1t0n GitHub stats](https://github-readme-stats.vercel.app/api?username=sk1t0n&&show_icons=true&theme=react)
 
