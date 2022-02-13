@@ -1,9 +1,5 @@
 ## Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anton
 
-### About Me
-
-- I'm Full Stack Developer (Django, Vue.js)
-
 ![sk1t0n GitHub stats](https://github-readme-stats.vercel.app/api?username=sk1t0n&&show_icons=true&theme=react)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk1t0n&exclude_repo=vkr,karman,labs_dev_app_db&layout=compact&theme=react&&langs_count=10)
