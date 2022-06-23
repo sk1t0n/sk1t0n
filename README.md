@@ -1,5 +1,6 @@
-## Hello everyone, I'm Anton
+## Hi there 👋 I'm Anton <img align="right" src="https://komarev.com/ghpvc/?username=bikrambox&color=269077">
 
+### ⚙️ &nbsp;GitHub Analytics
 ![sk1t0n GitHub stats](https://github-readme-stats.vercel.app/api?username=sk1t0n&&show_icons=true&theme=react)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk1t0n&exclude_repo=vkr,karman,labs_dev_app_db&layout=compact&theme=react&&langs_count=10)
