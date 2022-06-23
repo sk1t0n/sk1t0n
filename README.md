@@ -1,4 +1,4 @@
-## Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anton
+## Hello everyone, I'm Anton
 
 ![sk1t0n GitHub stats](https://github-readme-stats.vercel.app/api?username=sk1t0n&&show_icons=true&theme=react)
 
