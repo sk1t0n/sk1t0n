@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Anton <img align="right" src="https://komarev.com/ghpvc/?username=bikrambox&color=269077">
+## Hi there 👋 I'm Anton
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![sk1t0n GitHub stats](https://github-readme-stats.vercel.app/api?username=sk1t0n&&show_icons=true&theme=react)
