@@ -4,7 +4,7 @@
 
 **Backend**: PHP 8.1, Symfony 6
 
-**Frontend**: JavaScript (ES6 and later), Vue 2, HTML5, CSS3, SASS
+**Frontend**: JavaScript (ES6 and later), Vue 2, HTML5, CSS3, SASS, Bootstrap 5
 
 **Database**: PostgreSQL, MongoDB
 
