@@ -2,11 +2,11 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-**Backend**: PHP 8.1, Symfony 6
+**Backend**: PHP 8.1, Laravel 9
 
-**Frontend**: JavaScript (ES6 and later), Vue 2, HTML5, CSS3, SASS, Bootstrap 5
+**Frontend**: JavaScript (ES6 and later), Vue 3, HTML5, CSS3, SASS, Tailwind CSS
 
-**Database**: PostgreSQL, MongoDB
+**Database**: MySQL
 
 **DevOps**: Docker, Docker Compose
 
