@@ -10,6 +10,11 @@
 
 **DevOps**: Docker, Docker Compose
 
+**Programming Languages**:
+
+- Main: PHP, JS
+- Additional: Go
+
 ### ⚙️ &nbsp;GitHub Analytics
 ![sk1t0n GitHub stats](https://github-readme-stats.vercel.app/api?username=sk1t0n&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff)
 
