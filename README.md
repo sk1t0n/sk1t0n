@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk1t0n&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff&exclude_repo=vkr,karman,labs_dev_app_db&hide=ruby,html,css,scss,less,stylus,blade,twig&langs_count=8">
+<img align="right" src="https://github-readme-stats-nc8ojbl08-sk1t0n.vercel.app/api/top-langs?username=sk1t0n&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff&exclude_repo=vkr,karman,labs_dev_app_db&hide=ruby,html,css,scss,less,stylus,blade,twig&langs_count=8">
 
 ### Hi there 👋
 
@@ -19,7 +19,7 @@
 
 <!--
 ### ⚙️ &nbsp;GitHub Analytics
-![sk1t0n GitHub stats](https://github-readme-stats.vercel.app/api?username=sk1t0n&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff)
+![sk1t0n GitHub stats](https://github-readme-stats-nc8ojbl08-sk1t0n.vercel.app/api?username=sk1t0n&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff)
 -->
 
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=sk1t0n)-->
