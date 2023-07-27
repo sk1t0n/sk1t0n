@@ -4,7 +4,7 @@
 
 #### 🛠 &nbsp;Tech Stack
 
-**Backend**: PHP 8.1, Laravel 10
+**Backend**: PHP 8.2, Laravel 10
 
 **Frontend**: JavaScript (ES6 and later), Vue 3, HTML5, CSS3, SCSS, Tailwind CSS
 
