@@ -12,7 +12,7 @@
 
 **DevOps**: Docker, Docker Compose
 
-**Development Tools**: VS Code, Prettier, PHP CS Fixer, PHPStan, Xdebug
+**Development Tools**: VS Code, Prettier, PHP CS Fixer, PHPStan, Pest, Xdebug
 
 **Programming Languages**:
 
