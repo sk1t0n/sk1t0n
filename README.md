@@ -12,6 +12,8 @@
 
 **DevOps**: Docker, Docker Compose
 
+**Development Tools**: VS Code, Prettier, PHP CS Fixer, PHPStan, Xdebug
+
 **Programming Languages**:
 
 - Main languages: PHP, JavaScript
