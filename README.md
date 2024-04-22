@@ -19,6 +19,11 @@
 - Main languages: PHP, JavaScript
 - Additional languages: Go, TypeScript
 
+**Hobbies**:
+
+- AI
+- Blockchain
+
 <!--
 ### ⚙️ &nbsp;GitHub Analytics
 ![sk1t0n GitHub stats](https://github-readme-stats-nc8ojbl08-sk1t0n.vercel.app/api?username=sk1t0n&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff)
