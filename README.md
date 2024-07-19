@@ -2,7 +2,7 @@
 
 #### 🛠 &nbsp;Tech Stack
 
-**Backend**: PHP, Lavavel
+**Backend**: PHP, Laravel
 
 **Frontend**: React, Tailwind CSS
 
