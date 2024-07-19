@@ -2,10 +2,10 @@
 
 #### 🛠 &nbsp;Tech Stack
 
-**Backend**: ASP.NET Core (API, MVC, Razor Pages), EF
+**Backend**: PHP, Lavavel
 
 **Frontend**: React, Tailwind CSS
 
-**Database**: PostgreSQL, MSSQL Server
+**Database**: PostgreSQL, MySQL
 
 **DevOps**: Docker, Docker Compose
