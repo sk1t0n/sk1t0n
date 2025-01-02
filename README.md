@@ -6,7 +6,7 @@
 
 **Backend**: PHP, Laravel
 
-**Frontend**: React, Tailwind CSS
+**Frontend**: React, Next.js, Tailwind CSS
 
 **Database**: PostgreSQL, MySQL
 
