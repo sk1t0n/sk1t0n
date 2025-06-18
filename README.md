@@ -4,7 +4,7 @@
 
 #### 🛠 &nbsp;Tech Stack
 
-**Backend**: PHP, Laravel
+**Backend**: PHP Laravel, Golang Echo
 
 **Frontend**: React, Next.js, Tailwind CSS
 
