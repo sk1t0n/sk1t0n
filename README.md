@@ -6,8 +6,8 @@
 
 **Backend**: PHP Laravel, Golang Echo
 
-**Frontend**: React, Next.js, Tailwind CSS
+**Frontend**: React, Next.js, Tailwind CSS, shadcn/ui
 
 **Database**: PostgreSQL, MySQL
 
-**DevOps**: Docker, Docker Compose
+**Other**: Docker, Docker Compose, Nginx, Prometheus, Grafana, Loki, Alloy, Uptime Kuma etc
