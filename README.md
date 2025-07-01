@@ -10,4 +10,4 @@
 
 **Database**: PostgreSQL, MySQL
 
-**Other**: Docker, Docker Compose, Nginx, Prometheus, Grafana, Loki, Alloy, Uptime Kuma etc
+**Other**: Docker, Docker Compose, Nginx, Valkey, NATS, MinIO, Prometheus, Grafana, Loki, Alloy, Uptime Kuma etc
