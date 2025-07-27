@@ -10,7 +10,7 @@
 
 **Database**: PostgreSQL, MySQL
 
-**Other**: Docker, Docker Compose, Nginx, Valkey, MinIO, Meilisearch, NATS, Prometheus, Grafana, Loki, Alloy, Uptime Kuma etc
+**Other**: Docker, Docker Compose, Nginx, Valkey, MinIO, Meilisearch, NATS, Prometheus, Grafana, Sentry, Loki, Alloy, Uptime Kuma etc
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sk1t0n&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
