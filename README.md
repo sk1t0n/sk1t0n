@@ -6,7 +6,7 @@
 
 **Backend**: PHP Laravel, Golang Echo
 
-**Frontend**: React, Next.js, Tailwind CSS, shadcn/ui
+**Frontend**: React, Next.js, Zustand, Tailwind CSS, shadcn/ui
 
 **Database**: PostgreSQL, MySQL
 
