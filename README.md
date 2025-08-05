@@ -4,7 +4,7 @@
 
 #### 🛠 &nbsp;Tech Stack
 
-**Backend**: PHP Laravel (Fullstack), Golang Echo (REST or gRPC)
+**Backend**: PHP Laravel (Fullstack), Golang Echo (API)
 
 **Frontend**: React, Next.js, Zustand, Tailwind CSS, shadcn/ui
 
