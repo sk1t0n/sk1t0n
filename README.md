@@ -6,7 +6,7 @@
 
 - Go and PHP enthusiast
 - I created my own Neovim configuration and use it every day
-- I have created mobile casual 2D games using the Unity engine in C# and widgets for AmoCRM in PHP
+- I developed mobile casual 2D games using the Unity engine in C#, as well as integrations and widgets for AmoCRM in PHP
 - I have a Bachelor's degree in Mathematics and Computer Science
 
 #### 🛠️ Tech Stack
