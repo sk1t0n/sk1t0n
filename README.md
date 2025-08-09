@@ -1,17 +1,30 @@
 <img align="right" src="https://github-readme-stats-nc8ojbl08-sk1t0n.vercel.app/api/top-langs?username=sk1t0n&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=ffffff&exclude_repo=vkr,karman,labs_dev_app_db,livewire-todolist,laravel-short-links,laravel-chat,laravel-online-store,symfony_blog,yadro-api-docs,docker-configuration-files,handling-csv-data-in-php,handling-google-api-in-php,web_app_with_components&hide=ruby,html,css,scss,less,stylus,blade,twig&langs_count=8">
 
-### Hi there 👋
+### Hi there, I'm Anton Grabovsky 👋
 
-#### 🛠 &nbsp;Tech Stack
+#### 🚀 About Me
 
-**Backend**: PHP Laravel (Fullstack or API), Golang Echo (API)
+- Go and PHP enthusiast
+- I created my own Neovim configuration and use it every day
+- I have a Bachelor's degree in Mathematics and Computer Science
+
+#### 🛠️ Tech Stack
+
+**Backend**: PHP Laravel, Golang Fiber
 
 **Frontend**: React, Next.js, Zustand, Tailwind CSS, shadcn/ui
 
 **Database**: PostgreSQL, MySQL
 
-**Other**: Docker, Docker Compose, Nginx, Valkey, MinIO, Meilisearch, NATS, Prometheus, Grafana, Sentry, Loki, Alloy, Uptime Kuma etc
+**AI**: Codeium (Windsurf plugin), Cursor CLI
+
+**Other**: Neovim, Docker, Docker Compose, Nginx, Valkey, MinIO, Meilisearch, NATS, Prometheus, Grafana, Sentry, Loki, Alloy, Uptime Kuma etc
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sk1t0n&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+</div>
+
+<br />
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sk1t0n&theme=github-compact&hide_border=true"></a>
 </div>
