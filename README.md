@@ -13,7 +13,7 @@
 
 **Backend**: PHP Laravel, Golang Fiber
 
-**Frontend**: React, Next.js, Zustand, Tailwind CSS, shadcn/ui
+**Frontend**: React, Next.js, Zustand, Tailwind CSS, shadcn/ui, Supabase
 
 **Database**: PostgreSQL, MySQL
 
