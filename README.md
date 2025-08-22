@@ -17,7 +17,7 @@
 
 **Database**: PostgreSQL, MySQL
 
-**AI**: Codeium (Windsurf plugin), Cursor CLI
+**AI**: Codeium (Windsurf plugin), Cursor
 
 **Other**: Neovim, Docker, Docker Compose, Nginx, Valkey, MinIO, Meilisearch, NATS, Prometheus, Grafana, Sentry, Loki, Alloy, Uptime Kuma etc
 
