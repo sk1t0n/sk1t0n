@@ -26,5 +26,5 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sk1t0n&theme=github-compact&hide_border=true"></a>
+  <img src="https://github-readme-activity-graph-rho-black.vercel.app/graph?username=sk1t0n&theme=github-compact&hide_border=true">
 </div>
