@@ -17,7 +17,7 @@
 
 **Database**: PostgreSQL, MySQL
 
-**AI**: Codeium (Windsurf plugin), Spec Kit (Spec-Driven Development)
+**AI**: Windsurf Plugin (formerly Codeium), Spec Kit (Spec-Driven Development)
 
 **Other**: Neovim, Docker, Docker Compose, Nginx, Valkey, MinIO, Meilisearch, NATS, Prometheus, Grafana, Sentry, Loki, Alloy, Uptime Kuma etc
 
