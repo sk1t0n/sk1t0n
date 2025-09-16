@@ -19,7 +19,7 @@
 
 **AI**: Windsurf Plugin (formerly Codeium), Spec Kit (Spec-Driven Development)
 
-**Other**: Neovim, Docker, Docker Compose, Nginx, Valkey, MinIO, Meilisearch, NATS, Prometheus, Grafana, Sentry, Loki, Alloy, Uptime Kuma etc
+**Other**: Neovim, Docker & Docker Compose, Nginx, Valkey, RustFS, Meilisearch, RabbitMQ/NATS, Prometheus, Grafana, Loki, Alloy, Sentry, Uptime Kuma etc
 
 <div align="center">
   <img src="https://trophygh.kolioaris.xyz/?username=sk1t0n&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
