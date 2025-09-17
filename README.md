@@ -20,7 +20,7 @@
 
 **Code Editors / IDE**: Neovim, VS Code
 
-**Other**: Obsidian, Bruno, DBeaver, Docker & Docker Compose, Nginx, Valkey, RustFS, Meilisearch, RabbitMQ/NATS, Prometheus, Grafana, Loki, Alloy, Sentry, Uptime Kuma etc
+**Other**: WezTerm, Obsidian, Bruno, DBeaver, Docker & Docker Compose, Nginx, Valkey, RustFS, Meilisearch, RabbitMQ/NATS, Prometheus, Grafana, Loki, Alloy, Sentry, Uptime Kuma etc
 
 <div align="center">
   <img src="https://trophygh.kolioaris.xyz/?username=sk1t0n&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
