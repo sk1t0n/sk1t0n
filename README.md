@@ -5,7 +5,6 @@
 #### 🚀 About Me
 
 - Go and PHP enthusiast
-- I created my own Neovim configuration and use it every day
 - I developed mobile casual 2D games using the Unity engine in C#, as well as integrations and widgets for AmoCRM in PHP
 - I have a Bachelor's degree in Mathematics and Computer Science
 
@@ -15,11 +14,13 @@
 
 **Frontend**: React, Next.js, shadcn/ui, Supabase, Zustand etc
 
-**Database**: PostgreSQL, MySQL
+**Database**: PostgreSQL, MySQL, ClickHouse
 
-**AI**: Windsurf Plugin (formerly Codeium), Spec Kit (Spec-Driven Development)
+**AI**: Windsurf Plugin (formerly Codeium), GitHub Copilot, Spec Kit (Spec-Driven Development)
 
-**Other**: Neovim, Docker & Docker Compose, Nginx, Valkey, RustFS, Meilisearch, RabbitMQ/NATS, Prometheus, Grafana, Loki, Alloy, Sentry, Uptime Kuma etc
+**Code Editors / IDE**: Neovim, VS Code
+
+**Other**: Obsidian, Bruno, DBeaver, Docker & Docker Compose, Nginx, Valkey, RustFS, Meilisearch, RabbitMQ/NATS, Prometheus, Grafana, Loki, Alloy, Sentry, Uptime Kuma etc
 
 <div align="center">
   <img src="https://trophygh.kolioaris.xyz/?username=sk1t0n&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
