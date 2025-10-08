@@ -16,7 +16,7 @@
 
 **Database**: PostgreSQL, MySQL, ClickHouse
 
-**AI**: Windsurf/Copilot, Factory CLI, Spec Kit (Spec-Driven Development)
+**AI**: Windsurf/Copilot, Factory CLI, SpecKit/OpenSpec (Spec-Driven Development)
 
 **Code Editors / IDE**: Neovim, VS Code
 
