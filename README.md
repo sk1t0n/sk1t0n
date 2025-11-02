@@ -15,6 +15,8 @@
 
 **Frontend**: React, Next.js, shadcn/ui, Supabase, Zustand etc
 
+**API**: REST, gRPC, WebSockets
+
 **Database**: PostgreSQL, MySQL, ClickHouse
 
 **AI**: Windsurf/Copilot (extension), droid/opencode (CLI), SpecKit/OpenSpec (Spec-Driven Development)
