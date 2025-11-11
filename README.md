@@ -11,7 +11,7 @@
 
 #### 🛠️ Tech Stack
 
-**Backend**: PHP Laravel, Golang Fiber
+**Backend**: PHP Laravel, Golang Fiber/Echo
 
 **Frontend**: React, Next.js, shadcn/ui, Supabase, Zustand etc
 
