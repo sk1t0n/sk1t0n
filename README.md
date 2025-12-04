@@ -6,6 +6,7 @@
 
 - Go and PHP enthusiast
 - I created my own Neovim configuration [lazyvim-config](https://github.com/sk1t0n/lazyvim-config) and use it every day
+- I created the plugin [vim-top-keymaps.nvim](https://github.com/sk1t0n/vim-top-keymaps.nvim) that shows the most frequently used Vim keymaps in my opinion.
 - I developed mobile casual 2D games using the Unity engine in C#, as well as integrations and widgets for AmoCRM in PHP
 - I have a Bachelor's degree in Mathematics and Computer Science
 
