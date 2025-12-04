@@ -14,7 +14,7 @@
 
 **Backend**: PHP Laravel, Golang Fiber/Echo
 
-**Frontend**: React, Next.js, shadcn/ui, Supabase, Zustand etc
+**Frontend**: [React, Next.js, shadcn/ui, Supabase, Zustand](https://github.com/sk1t0n/next-todolist) etc
 
 **API**: REST, gRPC, WebSockets
 
