@@ -16,7 +16,7 @@
 
 **Frontend**: [React, Next.js, shadcn/ui, Supabase, Zustand](https://github.com/sk1t0n/next-todolist) etc
 
-**API**: REST, gRPC, [WebSockets](https://github.com/sk1t0n/laravel-chat)
+**API protocols**: REST, gRPC, [WebSockets](https://github.com/sk1t0n/laravel-chat)
 
 **Database**: PostgreSQL, MySQL, ClickHouse
 
