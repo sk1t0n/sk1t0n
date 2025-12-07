@@ -9,6 +9,7 @@
 - I created the plugin [vim-top-keymaps.nvim](https://github.com/sk1t0n/vim-top-keymaps.nvim) that shows the most frequently used Vim keymaps in my opinion.
 - I developed mobile casual 2D games using the Unity engine in C#, as well as integrations and widgets for AmoCRM in PHP
 - I have a Bachelor's degree in Mathematics and Computer Science
+- I started uploading my projects to GitHub in 2017, when I was a senior (fourth-year) student, and I continue to do so
 
 #### 🛠️ Tech Stack
 
