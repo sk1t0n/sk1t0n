@@ -23,7 +23,7 @@
 
 **AI**: Windsurf/Copilot (extension), droid/opencode (CLI), SpecKit/OpenSpec (Spec-Driven Development)
 
-**Code Editors / IDE**: Neovim, VS Code (for [PHP](https://github.com/sk1t0n/vscode-settings#php))
+**Code Editors / IDE**: Neovim, VS Code
 
 **Other**: [WezTerm](https://github.com/sk1t0n/dotfiles/blob/master/home/anton/.wezterm.lua), Obsidian, Bruno, DBeaver, [Docker](https://github.com/sk1t0n/docker-configuration-files)/Kubernetes, Nginx, Valkey, RustFS, Meilisearch, Keycloak, RabbitMQ/NATS, [Prometheus, Grafana](https://github.com/sk1t0n/Blog), Grafana Loki, Grafana Alloy, Sentry, Uptime Kuma etc
 
