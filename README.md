@@ -19,7 +19,7 @@
 
 **API protocols**: REST, gRPC, [WebSockets](https://github.com/sk1t0n/laravel-chat)
 
-**Database**: PostgreSQL, MySQL, ClickHouse
+**Database**: PostgreSQL, MySQL, ClickHouse, SQLite
 
 **AI**: Windsurf/Copilot (extension), droid/opencode (CLI), SpecKit/OpenSpec (Spec-Driven Development)
 
