@@ -13,7 +13,7 @@
 
 #### 🛠️ Tech Stack
 
-**Backend**: PHP [Laravel](https://github.com/sk1t0n/livewire-blog), Golang [Fiber](https://github.com/sk1t0n/fiber-mvc)/Echo
+**Backend**: PHP [Laravel](https://github.com/sk1t0n/livewire-blog), Golang Echo/[Fiber](https://github.com/sk1t0n/fiber-mvc)
 
 **Frontend**: [React, Next.js, shadcn/ui, Supabase, Zustand](https://github.com/sk1t0n/next-todolist) etc
 
