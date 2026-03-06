@@ -4,7 +4,7 @@
 
 #### 🚀 About Me
 
-- PHP is my main programming language, but I'm also interested in Go and Rust
+- PHP is my main programming language, but I'm also interested in Rust and Go
 - I created my own Neovim configuration [lazyvim-config](https://github.com/sk1t0n/lazyvim-config) and use it every day
 - I created the plugin [vim-top-keymaps.nvim](https://github.com/sk1t0n/vim-top-keymaps.nvim) that shows the most frequently used Vim keymaps in my opinion.
 - I developed mobile casual 2D games using the Unity engine in C#, as well as integrations and widgets for AmoCRM in PHP
@@ -13,9 +13,11 @@
 
 #### 🛠️ Tech Stack
 
-**Backend**: PHP [Laravel](https://github.com/sk1t0n/livewire-blog), Golang Echo/[Fiber](https://github.com/sk1t0n/fiber-mvc)
+**PHP**: [Laravel](https://github.com/sk1t0n/livewire-blog)
 
-**Frontend**: [React, Next.js, shadcn/ui, Supabase, Zustand](https://github.com/sk1t0n/next-todolist) etc
+**Rust**: Tauri
+
+**JavaScript, TypeScript**: [React, Next.js, shadcn/ui, Supabase, Zustand](https://github.com/sk1t0n/next-todolist) etc
 
 **API protocols**: REST, gRPC, [WebSockets](https://github.com/sk1t0n/laravel-chat)
 
