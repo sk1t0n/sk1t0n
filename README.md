@@ -23,7 +23,7 @@
 
 **Database**: PostgreSQL/MySQL, SQLite, ClickHouse
 
-**AI**: Windsurf/Copilot (extension), droid/opencode + 9router (CLI), MCP servers, AGENTS.md, Skills etc
+**AI**: Windsurf/Copilot (extension), opencode + 9router (CLI), MCP servers, AGENTS.md, Skills etc
 
 **Code Editors, IDE**: Neovim, [VS Code](https://github.com/sk1t0n/vscode-settings), Android Studio
 
