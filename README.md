@@ -23,7 +23,7 @@
 
 **Database**: PostgreSQL/MySQL, SQLite, ClickHouse
 
-**AI**: Windsurf/Copilot (extension), [opencode + 9router](https://github.com/sk1t0n/dotfiles/blob/master/home/anton/.config/opencode/opencode.json) (CLI), AGENTS.md, MCP servers, Skills (mattpocock/skills), Tools etc
+**AI**: Windsurf/Copilot (extension), [opencode + 9router](https://github.com/sk1t0n/dotfiles/blob/master/home/anton/.config/opencode/opencode.json) (CLI), AGENTS.md, Skills (mattpocock/skills), MCP servers, Tools etc
 
 **Code Editors, IDE**: Neovim, [VS Code](https://github.com/sk1t0n/vscode-settings), Android Studio
 
