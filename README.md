@@ -23,7 +23,7 @@
 
 **Database**: PostgreSQL/MySQL, SQLite, ClickHouse
 
-**AI**: Windsurf/Copilot (extension), [opencode](https://github.com/sk1t0n/dotfiles/blob/master/home/anton/.config/opencode/opencode.json)/pi/omp (CLI), `AGENTS.md`, `CONTEXT.md`, Skills (mattpocock/skills, vercel-labs/agent-skills), MCP servers, Tools, Plugins, Ralph Loop (ralphy, [simple-ralph-loop](https://github.com/sk1t0n/simple-ralph-loop)), Sandbox (Sandcastle), ADE (Orca) etc
+**AI**: herdr (Terminal Multiplexer for AI Coding Agents) + [opencode](https://github.com/sk1t0n/dotfiles/blob/master/home/anton/.config/opencode/opencode.json)/pi/omp (CLI AI Agents), `AGENTS.md`, `CONTEXT.md`, Skills (mattpocock/skills, vercel-labs/agent-skills), MCP servers (chrome-devtools-mcp etc), Tools, Plugins, Ralph Loop (ralphy, [simple-ralph-loop](https://github.com/sk1t0n/simple-ralph-loop)), Sandbox (Sandcastle), ADE (Orca) etc
 
 **Code Editors, IDE**: Neovim, [VS Code](https://github.com/sk1t0n/vscode-settings), Android Studio
 
