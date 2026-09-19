@@ -27,6 +27,8 @@
 
 **Code Editors, IDE**: Neovim, [VS Code](https://github.com/sk1t0n/vscode-settings), Android Studio
 
+**OS**: Omarchy
+
 **Other**: [WezTerm](https://github.com/sk1t0n/dotfiles/blob/master/home/anton/.wezterm.lua), Obsidian, Bruno, DBeaver, [Docker](https://github.com/sk1t0n/docker-configuration-files)/Kubernetes, Nginx, Valkey, SeaweedFS, Meilisearch, Keycloak, RabbitMQ/NATS, [Prometheus, Grafana](https://github.com/sk1t0n/Blog), Grafana Loki, Grafana Alloy, Sentry, Uptime Kuma etc
 
 <div align="center">
