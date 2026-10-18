@@ -23,7 +23,7 @@
 
 **Database**: PostgreSQL/MySQL, SQLite, ClickHouse
 
-**AI**: herdr (Terminal Multiplexer for AI Coding Agents) + opencode/pi/omp (CLI AI Agents), `AGENTS.md`, `CONTEXT.md`, Skills (mattpocock/skills, vercel-labs/agent-skills), MCP servers (chrome-devtools-mcp etc), Tools, Plugins, Ralph Loop (ralphy, [simple-ralph-loop](https://github.com/sk1t0n/simple-ralph-loop)), Sandbox (Sandcastle) etc
+**AI**: herdr (Terminal Multiplexer for AI Coding Agents) + opencode/pi/omp (CLI AI Agents), `AGENTS.md`, `CONTEXT.md`, Skills (mattpocock/skills, vercel-labs/agent-skills), MCP servers (chrome-devtools-mcp etc), Tools, Plugins, Ralph Loop (ralphy), Sandbox (Sandcastle) etc
 
 **Code Editors, IDE**: Neovim, [VS Code](https://github.com/sk1t0n/vscode-settings), Android Studio
 
